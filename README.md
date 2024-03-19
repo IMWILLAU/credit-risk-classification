@@ -1,9 +1,11 @@
 ## Overview of the Analysis
 
-**Explain the purpose of the analysis**
+**Explain the purpose of the analysis.**
+
 The purpose of the analysis is to develop machine learning models to predict the creditworthiness of borrowers based on lending activity data from a peer-to-peer lending services company. This analysis aims to assist in decision-making processes related to loan approvals and risk management.
 
 **Explain what financial information the data was on, and what you needed to predict.**
+
 The dataset contains contains financials information on borrowers, including attributes such as income, debt-to-income ratio, credit score, loan amount, and loan status. The prediction target is the loan status which indicates whether a borrower is likely to repay the loan or is at high risk.
 
 **Provide basic information about the variables you were trying to predict (e.g., `value_counts`).**
