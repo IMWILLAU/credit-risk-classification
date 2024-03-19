@@ -12,8 +12,8 @@ Loan status (target variable):
 - 0: Fully paid loans
 - 1: Charged off loans
 Value Counts:
-- Class 0: 
-- Class 1: 
+- Class 0: X%
+- Class 1: X%
 
 **Describe the stages of the machine learning process you went through as part of this analysis.**
 - Create label sets and feature Dataframe frozen the provided dataset.
