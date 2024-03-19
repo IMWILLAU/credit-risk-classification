@@ -53,5 +53,5 @@ This section describes the accuracy and balanced accuracy scores, and the precis
 
 ## Summary
 
-Based on the evaluation results, the performance models may vary depending on the problem of what is being addressed and/or data set. Logistic regression model appears to predict both health and high risk loans quite accurately with high precision, recall and F1-scores for both classes. However, further validation and monitoring of the model's performance in real-world scenarios are advisable before deployment.
+Based on the evaluation results, the performance models may vary depending on the problem of what is being addressed and/or data set. Logistic regression model appears to predict both health and high risk loans quite accurately with high precision, recall and F1-scores for both classes. Based on the results, it would be highly recommended for the use of these models. However, further validation and monitoring of the model's performance in real-world scenarios should be advisable before deployment.
 
